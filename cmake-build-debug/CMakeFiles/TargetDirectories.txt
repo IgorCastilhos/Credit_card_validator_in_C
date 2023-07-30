@@ -1,0 +1,3 @@
+C:/Users/igorc/OneDrive/Documentos/C++/projects/credit_card_validator_program/cmake-build-debug/CMakeFiles/credit_card_validator_program.dir
+C:/Users/igorc/OneDrive/Documentos/C++/projects/credit_card_validator_program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igorc/OneDrive/Documentos/C++/projects/credit_card_validator_program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
